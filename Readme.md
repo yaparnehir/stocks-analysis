@@ -10,7 +10,7 @@
 ### Initial code Vs Refactored Code Performance
 > Initial code was working and gave us the results that we desire to see. However its efficiency is not as much as expected to work on larger datasets and more stocks. Since we work only a dozen of indivual stocks its hard to get results. Then we refactored the code that gives us much quick and same analyze. Refactored code is almost six times faster than the first one (it may vary on larger groups but still faster). Instead of nested loops and look over and over the same groups, we create a single loop and increasment state based on specific conditions. 
 These are two images that the results for each year and also the time that pass to execute the code. 
-![Year 2017](https://github.com/yaparnehir/stocks-analysis/tree/main/Resources/VBA_Challenge_2017)
+![Year 2017](/stocks-analysis/tree/main/Resources/VBA_Challenge_2017)
 ![Year 2018](https://github.com/yaparnehir/stocks-analysis/tree/main/Resources/VBA_Challenge_2018)
 ## Summary
 >In conclusion refactored code has a faster results and year 2017 was much better in return performance of given stocks. 
